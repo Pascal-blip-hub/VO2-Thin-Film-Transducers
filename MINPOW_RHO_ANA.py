@@ -7,7 +7,7 @@ import os
 # =============================================================================
 
 d = 100e-09          # VO2 coating thickness [m]
-a_d_ratios = [1, 5, 10]  # List of a/d ratios to analyze
+a_d_ratios = [1, 5, 10]  # List of a/d ratios to analyze where a correlates to gaussian beam width
 log_start = -2       # Logarithmic min for rho values
 log_stop = 2         # Logarithmic max for rho values
 log_steps = 10000    # Number of steps
