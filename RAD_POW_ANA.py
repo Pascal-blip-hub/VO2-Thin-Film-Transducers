@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created by Pascal J. Schroeder at INSP
+"""
+
 import numpy as np
 import os
 from utils import create_directory, solve_integral, save_plot_data
