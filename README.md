@@ -13,13 +13,13 @@ In total, four Python scripts and two COMSOL model files are provided. The utils
 Apart from standard libraries like numpy, os and scipy, an installation of COMSOL Multiphysics (ideally version 6.2) in combination with the mph library is necessary to run the FEM calculations.
 
 ## Authors
-Pascal J. Schroeder < br / > 
-Sorbonne Université, CNRS, Institut des NanoSciences de Paris, 75005 Paris, France < br / > 
+Pascal J. Schroeder  
+Sorbonne Université, CNRS, Institut des NanoSciences de Paris, 75005 Paris, France  
 RWTH Aachen University, 52056 Aachen, Germany
 
 ## Contact
-pascal.schroeder@rwth-aachen.de < br / > 
-james.utterback@sorbonne-universite.fr < br / > 
+pascal.schroeder@rwth-aachen.de  
+james.utterback@sorbonne-universite.fr  
 jose.ordonez@cnrs.fr
 
 
