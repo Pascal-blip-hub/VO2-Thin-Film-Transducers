@@ -13,7 +13,7 @@ r_min = 0.0          # Minimum normalized radius
 r_max = 5.0          # Maximum normalized radius
 r_steps = 100        # Number of radius steps
 rho_values = [0.5]   # List of rho values to analyze
-jobname = "analytical_job"  # Precise jobname (used for directory naming)
+jobname = "Example_Name"  # Precise jobname (used for directory naming)
 
 # =============================================================================
 # CORE FUNCTIONS
