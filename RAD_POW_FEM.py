@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created by Pascal J. Schroeder at INSP
+"""
+
 import mph
 import numpy as np
 import os
