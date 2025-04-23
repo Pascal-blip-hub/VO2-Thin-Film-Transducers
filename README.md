@@ -14,12 +14,16 @@ Apart from standard libraries like numpy, os and scipy, an installation of COMSO
 
 ## Authors
 Pascal J. Schroeder
+#
 Sorbonne Université, CNRS, Institut des NanoSciences de Paris, 75005 Paris, France
+#
 RWTH Aachen University, 52056 Aachen, Germany
 
 ## Contact
 pascal.schroeder@rwth-aachen.de
+#
 james.utterback@sorbonne-universite.fr
+#
 jose.ordonez@cnrs.fr
 
 
