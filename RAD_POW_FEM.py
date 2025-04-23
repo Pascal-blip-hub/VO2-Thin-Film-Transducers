@@ -9,7 +9,7 @@ from utils import create_directory, save_plot_data, get_filename
 
 a = 1e-7                  # Gaussian beam width parameter (smearing measure) [m]
 T_0 = 341                 # Transition temperature VO2 [K]
-model_path = "250000x250000nm_SYMMETRIC_MIN500_NARROW10"  # Path to COMSOL model file (with or without .mph)
+model_path = "Example_File_123.mph"  # Path to COMSOL model file
 rho_values = [0.5]        # List of rho values to analyze
 power_min = 0             # Minimum power value (NOT NORMALIZED!) [W]
 power_max = 0.0075        # Maximum power value  (NOT NORMALIZED!) [W]
