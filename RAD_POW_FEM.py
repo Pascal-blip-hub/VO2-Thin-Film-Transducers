@@ -9,12 +9,12 @@ from utils import create_directory, save_plot_data, get_filename
 
 a = 1e-7                  # Gaussian beam width parameter (smearing measure) [m]
 T_0 = 341                 # Transition temperature VO2 [K]
-model_path = "Example_File_123.mph"  # Path to COMSOL model file
+model_path = "Example_File.mph"  # Path to COMSOL model file
 rho_values = [0.5]        # List of rho values to analyze
 power_min = 0             # Minimum power value (NOT NORMALIZED!) [W]
 power_max = 0.0075        # Maximum power value  (NOT NORMALIZED!) [W]
 power_steps = 3           # Number of power steps
-jobname = "Test123"        # Precise jobname (used for directory naming)
+jobname = "Example_Name"        # Precise jobname (used for directory naming)
 cores = 24                # Number of CPU cores to use for COMSOL
 
 # =============================================================================
