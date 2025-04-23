@@ -11,7 +11,7 @@ a_d_ratios = [1, 5, 10]  # List of a/d ratios to analyze where a correlates to g
 log_start = -2       # Logarithmic min for rho values
 log_stop = 2         # Logarithmic max for rho values
 log_steps = 10000    # Number of steps
-jobname = "min_power_ad_ratios"  # Precise jobname (used for directory naming)
+jobname = "Example_Name"  # Precise jobname (used for directory naming)
 
 # =============================================================================
 # CORE FUNCTIONS
